@@ -1,0 +1,7 @@
+﻿任務,資料類型,最高BalAcc模型,BalAcc,最高AUC模型,AUC
+Task 1,Clinical_only,RidgeClassifier,0.848,TabPFN,0.928
+Task 1,Best clin_fs,LinearSVC (APARC_ASEG_AMYG),0.841,TabPFN (APARC_ASEG_AMYG),0.919
+Task 2,Clinical_only,RidgeClassifier,0.853,TabPFN,0.932
+Task 2,clin_fs HIPPO_ASEG,RidgeClassifier,0.839,TabPFN,0.932
+Task 3,Clinical_only,RidgeClassifier,0.81,TabPFN,0.905
+Task 3,clin_fs HIPPO,ElasticNet Logistic,0.808,TabPFN,0.903

@@ -1,0 +1,10 @@
+﻿群組,特徵數,主要量測內容
+brainvol,16,全腦分割體積、皮質灰質、白質、皮質下灰質、腦室等整體體積摘要
+aseg,46,皮質下結構與腦室體積，包含海馬、杏仁核、丘腦、基底核與 eTIV
+wmparc,70,依鄰近皮質分區標記之白質區域體積
+hippo,44,左右側海馬亞區體積，例如 subiculum、CA1、presubiculum
+amyg,20,左右側杏仁核子核體積，例如 lateral、basal、central nucleus
+aparc,208,Desikan-Killiany 皮質分區之表面積、灰質體積與平均皮質厚度
+a2009s,448,Destrieux 皮質分區之表面積、灰質體積與平均皮質厚度
+dkt,193,Desikan-Killiany-Tourville 皮質分區之表面積、灰質體積與平均皮質厚度
+ba_thresh,86,Brodmann area 相關皮質分區之表面積、灰質體積與平均皮質厚度

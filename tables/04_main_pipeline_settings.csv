@@ -1,0 +1,5 @@
+﻿任務,主要方向,正式特徵數,Phase 1模型數
+Task 1,APARC_ASEG_AMYG,Top-80,8
+Task 1,APARC_ASEG_HIPPO,Top-80,8
+Task 2,HIPPO_ASEG,Top-30,7
+Task 3,HIPPO,Top-20,7

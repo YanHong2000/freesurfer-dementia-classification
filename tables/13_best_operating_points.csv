@@ -1,0 +1,10 @@
+﻿任務,操作目標,最佳方向/模型,平均閾值,BalAcc,Sensitivity,Specificity,AUC
+Task 1,youden,Clin33 / RidgeClassifier,0.508,0.843,0.849,0.837,0.922
+Task 1,sens@0.90,Clin33_FS_top30 / TabPFN,0.155,0.84,0.906,0.774,0.929
+Task 1,spec@0.90,Clin33_FS_top30 / TabPFN,0.375,0.827,0.756,0.898,0.929
+Task 2,youden,Clin33 / RidgeClassifier,0.509,0.844,0.796,0.892,0.928
+Task 2,sens@0.90,Clin33 / TabPFN,0.711,0.819,0.904,0.734,0.933
+Task 2,spec@0.90,Clin33 / RidgeClassifier,0.511,0.85,0.793,0.906,0.928
+Task 3,youden,Clin33 / ExtraTrees,0.757,0.803,0.779,0.827,0.898
+Task 3,sens@0.90,Clin33_FS_top40 / GaussianNB,0.01,0.782,0.733,0.832,0.835
+Task 3,spec@0.90,Clin33 / RidgeClassifier,0.536,0.807,0.704,0.91,0.901

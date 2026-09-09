@@ -1,0 +1,8 @@
+﻿任務,資料方向,最佳單一模型,單一BalAcc,最佳集成設定,集成BalAcc,DeltaBalAcc
+Task 1,APARC_ASEG_AMYG,LinearSVC,0.836,ALL-cvxSL,0.8354,-0.0006
+Task 1,APARC_ASEG_HIPPO,TabPFN,0.8312,ElasticNet_x_TabPFN-cvxSL,0.8298,-0.0013
+Task 1,Clinical_only,RidgeClassifier,0.8455,ALL-equal,0.8427,-0.0028
+Task 2,HIPPO_ASEG,RidgeClassifier,0.8251,Linear_only-equal,0.827,0.0019
+Task 2,Clinical_only,RidgeClassifier,0.8373,Tree_TabPFN_only-equal,0.8296,-0.0077
+Task 3,HIPPO,LinearSVC,0.7926,Linear_only-equal,0.7939,0.0013
+Task 3,Clinical_only,RidgeClassifier,0.8001,Tree_TabPFN_only-equal,0.8031,0.0031

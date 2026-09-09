@@ -1,0 +1,4 @@
+﻿任務,任務名稱,正類,正類人數,負類,負類人數,合計
+Task 1,Dementia vs. NonDementia,Dementia,85,MCI + Normal,293,378
+Task 2,AbNormal vs. Normal,Dementia + MCI,318,Normal,60,378
+Task 3,MCI vs. Normal,MCI,233,Normal,60,293

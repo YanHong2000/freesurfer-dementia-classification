@@ -1,0 +1,61 @@
+﻿任務,方向,名次,特徵,類型
+Task 1,APARC_ASEG_AMYG,1,CASIORIEN,Clinical
+Task 1,APARC_ASEG_AMYG,2,MMSE,Clinical
+Task 1,APARC_ASEG_AMYG,3,CASItotalscores,Clinical
+Task 1,APARC_ASEG_AMYG,4,CASISTM,Clinical
+Task 1,APARC_ASEG_AMYG,5,CASIMENMA,Clinical
+Task 1,APARC_ASEG_AMYG,6,CASILANG,Clinical
+Task 1,APARC_ASEG_AMYG,7,CASIANML,Clinical
+Task 1,APARC_ASEG_AMYG,8,CASIABSTR,Clinical
+Task 1,APARC_ASEG_AMYG,9,CASILTM,Clinical
+Task 1,APARC_ASEG_AMYG,10,L precuneus (APARC),Imaging
+Task 1,APARC_ASEG_AMYG,11,L Hippocampus (ASEG),Imaging
+Task 1,APARC_ASEG_AMYG,12,L middletemporal (APARC),Imaging
+Task 1,APARC_ASEG_AMYG,13,L inferiortemporal (APARC),Imaging
+Task 1,APARC_ASEG_AMYG,14,L Accessory-Basal-nucleus (AMYG),Imaging
+Task 1,APARC_ASEG_AMYG,15,L Corticoamygdaloid-transitio (AMYG),Imaging
+Task 1,APARC_ASEG_HIPPO,1,CASIORIEN,Clinical
+Task 1,APARC_ASEG_HIPPO,2,MMSE,Clinical
+Task 1,APARC_ASEG_HIPPO,3,CASItotalscores,Clinical
+Task 1,APARC_ASEG_HIPPO,4,CASISTM,Clinical
+Task 1,APARC_ASEG_HIPPO,5,CASIMENMA,Clinical
+Task 1,APARC_ASEG_HIPPO,6,CASILANG,Clinical
+Task 1,APARC_ASEG_HIPPO,7,CASIANML,Clinical
+Task 1,APARC_ASEG_HIPPO,8,CASIABSTR,Clinical
+Task 1,APARC_ASEG_HIPPO,9,CASILTM,Clinical
+Task 1,APARC_ASEG_HIPPO,10,L precuneus (APARC),Imaging
+Task 1,APARC_ASEG_HIPPO,11,L molecular_layer_HP-head (HIPPO),Imaging
+Task 1,APARC_ASEG_HIPPO,12,L GC-ML-DG-body (HIPPO),Imaging
+Task 1,APARC_ASEG_HIPPO,13,L CA4-body (HIPPO),Imaging
+Task 1,APARC_ASEG_HIPPO,14,L Whole_hippocampus (HIPPO),Imaging
+Task 1,APARC_ASEG_HIPPO,15,L Hippocampus (ASEG),Imaging
+Task 2,HIPPO_ASEG,1,CASItotalscores,Clinical
+Task 2,HIPPO_ASEG,2,MMSE,Clinical
+Task 2,HIPPO_ASEG,3,CASISTM,Clinical
+Task 2,HIPPO_ASEG,4,CASIORIEN,Clinical
+Task 2,HIPPO_ASEG,5,CASIABSTR,Clinical
+Task 2,HIPPO_ASEG,6,Gaitspeed,Clinical
+Task 2,HIPPO_ASEG,7,L Whole_hippocampal_body,Imaging
+Task 2,HIPPO_ASEG,8,L Whole_hippocampus,Imaging
+Task 2,HIPPO_ASEG,9,CASIANML,Clinical
+Task 2,HIPPO_ASEG,10,L GC-ML-DG-head,Imaging
+Task 2,HIPPO_ASEG,11,L molecular_layer_HP-head,Imaging
+Task 2,HIPPO_ASEG,12,L molecular_layer_HP-body,Imaging
+Task 2,HIPPO_ASEG,13,L Whole_hippocampal_head,Imaging
+Task 2,HIPPO_ASEG,14,L CA3-head,Imaging
+Task 2,HIPPO_ASEG,15,L subiculum-body,Imaging
+Task 3,HIPPO,1,CASItotalscores,Clinical
+Task 3,HIPPO,2,MMSE,Clinical
+Task 3,HIPPO,3,APOE,Clinical
+Task 3,HIPPO,4,APOE_was_missing,Clinical
+Task 3,HIPPO,5,CASISTM,Clinical
+Task 3,HIPPO,6,Gaitspeed,Clinical
+Task 3,HIPPO,7,CASIABSTR,Clinical
+Task 3,HIPPO,8,CASIORIEN,Clinical
+Task 3,HIPPO,9,L Whole_hippocampal_body,Imaging
+Task 3,HIPPO,10,L Whole_hippocampus,Imaging
+Task 3,HIPPO,11,MNA_SF,Clinical
+Task 3,HIPPO,12,L molecular_layer_HP-body,Imaging
+Task 3,HIPPO,13,L GC-ML-DG-head,Imaging
+Task 3,HIPPO,14,Drugkinds,Clinical
+Task 3,HIPPO,15,L molecular_layer_HP-head,Imaging

@@ -1,0 +1,7 @@
+﻿任務,跨方向集成設定,最佳單一方向,單一方向BalAcc,最佳集成設定,跨方向集成BalAcc,DeltaBalAcc
+Task 1,AMYG + HIPPO,AMYG,0.836,LinearSVC-cvxSL,0.8357,-0.0002
+Task 1,AMYG + HIPPO + Clinical,Clinical_only,0.8455,ALLxALL-cvxSL,0.84,-0.0054
+Task 1,AMYG + Clinical,Clinical_only,0.8455,ALLxALL-cvxSL,0.8416,-0.0038
+Task 1,HIPPO + Clinical,Clinical_only,0.8455,ALLxALL-equal,0.842,-0.0035
+Task 2,HIPPO_ASEG + Clinical,Clinical_only,0.8373,RidgeClassifier,0.8352,-0.0022
+Task 3,HIPPO + Clinical,Clinical_only,0.8001,LogisticRegression-cvxSL,0.7977,-0.0023
